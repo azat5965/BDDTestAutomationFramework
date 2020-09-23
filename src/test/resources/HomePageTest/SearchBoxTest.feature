@@ -1,0 +1,1 @@
+@smoketest @regressiontest @ui @TEC-1
