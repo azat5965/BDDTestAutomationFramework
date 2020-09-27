@@ -1,7 +1,7 @@
-package StepDefinition;
+package stepDefinition;
 
-import Pages.HomePage;
-import Utilities.Driver;
+import pages.HomePage;
+import utilities.Driver;
 import org.openqa.selenium.WebDriver;
 
 public class HomePageSteps {

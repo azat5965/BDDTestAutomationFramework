@@ -1,4 +1,4 @@
-package CukesRunner;
+package cukesRunner;
 
 import io.cucumber.junit.Cucumber;
 import io.cucumber.junit.CucumberOptions;
@@ -11,7 +11,7 @@ import org.junit.runner.RunWith;
                 "junit:target/cucumber.xml",
                 "rerun:target/rerun.txt"},
         features = "src/test/resources",
-        glue = "StepDefinition",
+        glue = "stepDefinition",
         tags = "@TEC-5000",
         dryRun = false
 )

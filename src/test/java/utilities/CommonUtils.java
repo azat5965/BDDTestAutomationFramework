@@ -1,4 +1,4 @@
-package Utilities;
+package utilities;
 
 import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.*;
@@ -11,7 +11,7 @@ import java.io.IOException;
 import java.time.Duration;
 import java.util.Properties;
 
-import static Utilities.Constants.*;
+import static utilities.Constants.*;
 
 public class CommonUtils {
 
